@@ -17,7 +17,7 @@
 ### Pra mais conteudo e informações me segue nas redes abaixo!
  
 <div> 
-  <a href="https://[www.youtube.com/channel/UCxdi3rbRAYjKvUTTmlQhAlQ](https://youtube.com/@ruanrafael1847?si=U7Bmayr8pcoHMAqS)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCxdi3rbRAYjKvUTTmlQhAlQ](https://www.youtube.com/channel/UCxdi3rbRAYjKvUTTmlQhAlQ)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://https://www.instagram.com/ruanrsilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/541727446547038208" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ruan.rafael02tab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
